@@ -8,7 +8,7 @@ String.toLocaleString({
 		"%game-won"             : "You won the Grand Prix!",
 		"%game-over"            : "Game over, back to the pits!",
 		"%game-explanation"     : "<strong class=\"important\">How to play:</strong> Use your <strong>arrow keys</strong> to move the tiles. When two tiles with the same symbol touch, they <strong>get promoted!</strong>",
-		"%disclaimer"           : "<strong class=\"important\">Note:</strong> This site <a href=\"https://ethanhood.github.io/2048f/\">git.io/cupcakes</a> is a spin-off of the official version of <a href=\"http://git.io/2048\">2048</a> created by <a href=\"http://gabrielecirulli.com\" target=\"_blank\">Gabriele Cirulli</a>.",
+		"%disclaimer"           : "<strong class=\"important\">Note:</strong> This site <a href=\"https://ethanhood.github.io/2048f/\">ethan.hood.github.io/2048f</a> is a spin-off of the official version of <a href=\"http://git.io/2048\">2048</a> created by <a href=\"http://gabrielecirulli.com\" target=\"_blank\">Gabriele Cirulli</a>.",
 		"%credits"              : "Originally created by Gabriele Cirulli, modified by Ethan Hood.",
 		"%tweet1"               : "I scored \"",
 		"%tweet2"               : "\" at 2048-FERRARI #2048game",
