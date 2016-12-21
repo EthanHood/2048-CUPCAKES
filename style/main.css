@@ -4,7 +4,7 @@ html, body {
   margin: 0;
   padding: 0;
   background-color: #fff;
-  color: #4d2523;
+  color: #ff2800;
   font-family: "Clear Sans", "Helvetica Neue", Arial, sans-serif;
   font-size: 18px; }
 
@@ -64,7 +64,7 @@ h1.title {
   overflow: hidden;
   position: relative;
   display: inline-block;
-  background: #f67098;
+  background: #ff2800;
   padding: 15px 0px;
   font-size: 19px;
   text-transform: uppercase;
