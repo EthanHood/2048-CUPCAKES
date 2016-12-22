@@ -129,7 +129,7 @@ strong.important {
 
 hr {
   border: none;
-  border-bottom: 1px solid #fbb8cc;
+  border-bottom: 1px solid #ff2800;
   margin-top: 20px;
   margin-bottom: 30px; }
 
@@ -167,7 +167,7 @@ hr {
   -ms-user-select: none;
   -ms-touch-action: none;
   touch-action: none;
-  background: #f67098;
+  background: #ff2800;
   border-radius: 6px;
   width: 500px;
   height: 500px;
@@ -201,7 +201,7 @@ hr {
       margin-top: 59px; }
     .game-container .game-message a {
       display: inline-block;
-      background: #f888a9;
+      background: #ff2800;
       border-radius: 3px;
       padding: 0 20px;
       text-decoration: none;
