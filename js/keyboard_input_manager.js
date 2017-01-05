@@ -1,3 +1,4 @@
+// Core
 function KeyboardInputManager() {
   this.events = {};
 
