@@ -1,3 +1,5 @@
+// Core
+
 window.fakeStorage = {
   _data: {},
 
