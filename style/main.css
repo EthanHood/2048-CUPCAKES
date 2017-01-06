@@ -31,7 +31,7 @@ h1.title {
 .title-container {
   position: relative;
   display: inline-block;
-  padding-bottom: 10px; }
+  padding-bottom: 100px; }
 
 @-webkit-keyframes move-up {
   0% {
