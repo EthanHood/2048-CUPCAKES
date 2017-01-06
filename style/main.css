@@ -87,7 +87,7 @@ h1.title {
     font-size: 13px;
     line-height: 13px;
     text-align: center;
-    color: #3c1b1a; }
+    color: #ffffff; }
   .score-container .score-addition, .best-container .score-addition {
     position: absolute;
     right: 30px;
@@ -205,7 +205,7 @@ hr {
       border-radius: 3px;
       padding: 0 20px;
       text-decoration: none;
-      color: #3c1b1a;
+      color: #ffffff;
       height: 40px;
       line-height: 42px;
       margin-left: 9px; }
@@ -569,6 +569,7 @@ hr {
 
   .restart-button, .retry-button {
     width: 42%;
+    color: #ffffff;
     padding: 0;
     display: block;
     box-sizing: border-box;
