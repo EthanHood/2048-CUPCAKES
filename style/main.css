@@ -217,7 +217,7 @@ hr {
       margin-left: 10px; }
     .game-container .game-message.game-won {
       background: rgba(88, 46, 116, 0.5);
-      color: white; }
+      color: #ff2800; }
       .game-container .game-message.game-won a.keep-playing-button {
         display: inline-block; }
     .game-container .game-message.game-won, .game-container .game-message.game-over {
